@@ -143,7 +143,8 @@ fixtures = [
     {"dt": "Custom Field", "filters": [
         [
             "name", "in", [
-		"Purchase Invoice-nasser"
+		"Purchase Invoice-nasser",
+		"Purchase Invoice-samer"
 		
             ]
         ]
