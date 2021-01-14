@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include nasser_app *.css
+recursive-include nasser_app *.csv
+recursive-include nasser_app *.html
+recursive-include nasser_app *.ico
+recursive-include nasser_app *.js
+recursive-include nasser_app *.json
+recursive-include nasser_app *.md
+recursive-include nasser_app *.png
+recursive-include nasser_app *.py
+recursive-include nasser_app *.svg
+recursive-include nasser_app *.txt
+recursive-exclude nasser_app *.pyc
